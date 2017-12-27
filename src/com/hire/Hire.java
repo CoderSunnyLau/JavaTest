@@ -74,7 +74,6 @@ public class Hire {
 		}else{
 			intTarget = Integer.parseInt(target);
 		}
-//		input.close();
 		return intTarget;
 	}
 	public int step(int max){
